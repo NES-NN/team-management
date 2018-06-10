@@ -1,0 +1,43 @@
+python3 Train.py --generations 2
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+Resuming from a previous point: /opt/train/NEAT/neat_network
+
+ ****** Running generation 5 ****** 
+
+Population's average fitness: 485.70000 stdev: 215.29215
+Best fitness: 983.00000 - size: (1, 1171) - species 1 - id 104
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [5]
+Species no improv: {1: 0}
+Average adjusted fitness: 24.285
+Spawn amounts: [20]
+Species fitness  : [24.285]
+Generation time: 115.842 sec
+
+ ****** Running generation 6 ****** 
+
+Population's average fitness: 355.05000 stdev: 261.33187
+Best fitness: 898.00000 - size: (0, 1161) - species 1 - id 34
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [6]
+Species no improv: {1: 1}
+Average adjusted fitness: 17.753
+Spawn amounts: [20]
+Species fitness  : [17.752500000000001]
+Generation time: 100.075 sec
+Creating user checkpoint file /opt/train/NEAT/neat_network at generation: user
+
+ ****** Training output ****** 
+
+Number of evaluations: 40
+Saving VINE statistics into: /opt/train/NEAT/snapshots
+Created snapshot:snapshot_offspring_0004.dat
+Created parent snapshot:snapshot_parent_0005.dat
+Created snapshot:snapshot_offspring_0005.dat
+Created parent snapshot:snapshot_parent_0006.dat
+Saving best genome into: /opt/train/NEAT/neat_network.pkl
