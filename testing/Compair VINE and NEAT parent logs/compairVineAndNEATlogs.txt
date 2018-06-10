@@ -1,0 +1,84 @@
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+
+ ****** Running generation 0 ****** 
+
+Created snapshot:snapshot_offspring_0000.dat
+Created parent snapshot:snapshot_parent_0001.dat
+Population's average fitness: 105.10000 stdev: 60.00242
+Best fitness: 269.00000 - size: (0, 1248) - species 1 - id 5
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [0]
+Species no improv: {1: 0}
+Average adjusted fitness: 5.255
+Spawn amounts: [20]
+Species fitness  : [5.2549999999999999]
+Generation time: 68.080 sec
+
+ ****** Running generation 1 ****** 
+
+Created snapshot:snapshot_offspring_0001.dat
+Created parent snapshot:snapshot_parent_0002.dat
+Population's average fitness: 114.20000 stdev: 97.11210
+Best fitness: 434.00000 - size: (1, 1223) - species 1 - id 34
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [1]
+Species no improv: {1: 0}
+Average adjusted fitness: 5.710
+Spawn amounts: [20]
+Species fitness  : [5.7099999999999991]
+Generation time: 66.555 sec
+
+ ****** Running generation 2 ****** 
+
+Created snapshot:snapshot_offspring_0002.dat
+Created parent snapshot:snapshot_parent_0003.dat
+Population's average fitness: 291.10000 stdev: 165.73560
+Best fitness: 722.00000 - size: (1, 1208) - species 1 - id 54
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [2]
+Species no improv: {1: 0}
+Average adjusted fitness: 14.555
+Spawn amounts: [20]
+Species fitness  : [14.554999999999998]
+Generation time: 96.900 sec
+
+ ****** Running generation 3 ****** 
+
+Created snapshot:snapshot_offspring_0003.dat
+Created parent snapshot:snapshot_parent_0004.dat
+Population's average fitness: 385.70000 stdev: 167.74358
+Best fitness: 722.00000 - size: (1, 1192) - species 1 - id 74
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [3]
+Species no improv: {1: 0}
+Average adjusted fitness: 19.285
+Spawn amounts: [20]
+Species fitness  : [19.285000000000004]
+Generation time: 102.290 sec
+
+ ****** Running generation 4 ****** 
+
+Created snapshot:snapshot_offspring_0004.dat
+Created parent snapshot:snapshot_parent_0005.dat
+Population's average fitness: 424.95000 stdev: 321.04898
+Best fitness: 1437.00000 - size: (1, 1187) - species 1 - id 75
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [4]
+Species no improv: {1: 0}
+Average adjusted fitness: 21.247
+Spawn amounts: [20]
+Species fitness  : [21.247499999999995]
+Generation time: 89.076 sec
+Creating user checkpoint file neat_network at generation: user
+Number of evaluations: 100

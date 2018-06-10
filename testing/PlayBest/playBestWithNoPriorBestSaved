@@ -1,0 +1,10 @@
+root@9c653d701f3e:/opt/train/NEAT# python3 Train.py --play-best
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.
+Traceback (most recent call last):
+  File "Train.py", line 235, in <module>
+    train_network(smb_env)
+  File "Train.py", line 200, in train_network
+    winner = pickle.load(open(args.saveFile + '.pkl', 'rb'))
+FileNotFoundError: [Errno 2] No such file or directory: 'neat_network.pkl'
+

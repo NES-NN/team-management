@@ -1,0 +1,33 @@
+﻿python3 Train.py --generations 2 --save-file customSnapshot
+#[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.#[0m
+#[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.#[0m
+
+ ****** Running generation 0 ****** 
+
+Population's average fitness: 88.80000 stdev: 43.62522
+Best fitness: 158.00000 - size: (0, 1248) - species 1 - id 15
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [0]
+Species no improv: {1: 0}
+Average adjusted fitness: 4.440
+Spawn amounts: [20]
+Species fitness  : [4.4399999999999995]
+Generation time: 61.237 sec
+
+ ****** Running generation 1 ****** 
+
+Population's average fitness: 158.55000 stdev: 134.68165
+Best fitness: 671.00000 - size: (0, 1232) - species 1 - id 36
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [1]
+Species no improv: {1: 0}
+Average adjusted fitness: 7.928
+Spawn amounts: [20]
+Species fitness  : [7.9275000000000002]
+Generation time: 89.881 sec
+Creating user checkpoint file customSnapshot at generation: user
+Number of evaluations: 40

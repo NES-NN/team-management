@@ -1,0 +1,193 @@
+﻿python3 Train.py --generations 2 --episodes 3 --v
+#[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.#[0m
+#[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.#[0m
+
+ ****** Running generation 0 ****** 
+
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 40.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 118.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 40.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 279.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 49.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 107.666666667
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 110.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 106.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 139.666666667
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 221.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 108.333333333
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 89.6666666667
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 111.0
+Population's average fitness: 114.81667 stdev: 52.59694
+Best fitness: 279.00000 - size: (0, 1248) - Genome 1 - id 8
+Genome length: 1 totaling 20 individuals
+Genome ID       : [1]
+Genome size     : [20]
+Genome age      : [0]
+Genome no improv: {1: 0}
+Average adjusted fitness: 5.741
+Spawn amounts: [20]
+Genome fitness  : [5.7408333333333328]
+Generation time: 190.327 sec
+
+ ****** Running generation 1 ****** 
+
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 270.666666667
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 124.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 67.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 123.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 33.6666666667
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 40.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 298.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 296.333333333
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 40.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 298.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 56.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 226.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 309.333333333
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 115.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 40.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 353.333333333
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 311.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 293.333333333
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 303.0
+Running episode: 0
+Running episode: 1
+Running episode: 2
+Genome fitness: 449.666666667
+Population's average fitness: 202.36667 stdev: 127.53570
+Best fitness: 449.66667 - size: (0, 1236) - Genome 1 - id 38
+Genome length: 1 totaling 20 individuals
+Genome ID       : [1]
+Genome size     : [20]
+Genome age      : [1]
+Genome no improv: {1: 0}
+Average adjusted fitness: 10.118
+Spawn amounts: [20]
+Genome fitness  : [10.118333333333334]
+Generation time: 290.954 sec
+Creating user checkpoint file neat_network at generation: user
+Number of evaluations: 40

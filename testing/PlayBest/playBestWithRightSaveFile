@@ -1,0 +1,5 @@
+root@9c653d701f3e:/opt/train/NEAT# python3 Train.py --play-best --save-file rightname
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.
+Resuming from a previous point: rightname
+root@9c653d701f3e:/opt/train/NEAT# 

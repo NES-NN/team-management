@@ -1,0 +1,35 @@
+root@9c653d701f3e:/opt/train/NEAT# python3 Train.py --generations 2            
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.
+WARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.
+Resuming from a previous point: neat_network
+
+ ****** Running generation 5 ****** 
+
+Population's average fitness: 213.30000 stdev: 161.26782
+Best fitness: 465.00000 - size: (2, 1170) - species 1 - id 101
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [5]
+Species no improv: {1: 0}
+Average adjusted fitness: 10.665
+Spawn amounts: [20]
+Species fitness  : [10.665000000000001]
+Generation time: 58.410 sec
+
+ ****** Running generation 6 ****** 
+
+Population's average fitness: 177.95000 stdev: 149.28244
+Best fitness: 466.00000 - size: (2, 1151) - species 1 - id 32
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [6]
+Species no improv: {1: 1}
+Average adjusted fitness: 8.898
+Spawn amounts: [20]
+Species fitness  : [8.8975000000000009]
+Generation time: 60.997 sec
+Creating user checkpoint file neat_network at generation: user
+Number of evaluations: 40
+
