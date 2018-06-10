@@ -1,0 +1,122 @@
+root@5a401ffa77b3:/opt/train/NEAT# python3 Train.py --v --generations 2
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.uint8'>. Please provide explicit dtype.[0m
+[33mWARN: gym.spaces.Box autodetected dtype as <class 'numpy.float32'>. Please provide explicit dtype.[0m
+
+ ****** Running generation 0 ****** 
+
+Population's average fitness: 120.75000 stdev: 50.45282
+Best fitness: 283.00000 - size: (0, 1248) - species 1 - id 8
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [0]
+Species no improv: {1: 0}
+Average adjusted fitness: 6.037
+Spawn amounts: [20]
+Species fitness  : [6.0374999999999996]
+Generation time: 67.707 sec
+
+ ****** Running generation 1 ****** 
+
+Population's average fitness: 154.65000 stdev: 131.64850
+Best fitness: 434.00000 - size: (0, 1226) - species 1 - id 23
+Species length: 1 totaling 20 individuals
+Species ID       : [1]
+Species size     : [20]
+Species age      : [1]
+Species no improv: {1: 0}
+Average adjusted fitness: 7.732
+Spawn amounts: [20]
+Species fitness  : [7.7324999999999999]
+Generation time: 75.268 sec
+Creating user checkpoint file /opt/train/NEAT/neat_network at generation: user
+
+ ****** Training output ****** 
+
+Number of evaluations: 40
+Saving VINE statistics into: /opt/train/NEAT/snapshots
+Created snapshot:snapshot_offspring_0000.dat
+Created parent snapshot:snapshot_parent_0001.dat
+Created snapshot:snapshot_offspring_0001.dat
+Created parent snapshot:snapshot_parent_0002.dat
+Saving best genome into: /opt/train/NEAT/neat_network.pkl
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 115.0
+Running episode: 0
+Genome fitness: 105.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 115.0
+Running episode: 0
+Genome fitness: 92.0
+Running episode: 0
+Genome fitness: 40.0
+Running episode: 0
+Genome fitness: 283.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 100.0
+Running episode: 0
+Genome fitness: 97.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 147.0
+Running episode: 0
+Genome fitness: 147.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 223.0
+Running episode: 0
+Genome fitness: 63.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 282.0
+Running episode: 0
+Genome fitness: 222.0
+Running episode: 0
+Genome fitness: 90.0
+Running episode: 0
+Genome fitness: 112.0
+Running episode: 0
+Genome fitness: 434.0
+Running episode: 0
+Genome fitness: 40.0
+Running episode: 0
+Genome fitness: 104.0
+Running episode: 0
+Genome fitness: 164.0
+Running episode: 0
+Genome fitness: 111.0
+Running episode: 0
+Genome fitness: 40.0
+Running episode: 0
+Genome fitness: 434.0
+Running episode: 0
+Genome fitness: 40.0
+Running episode: 0
+Genome fitness: 32.0
+Running episode: 0
+Genome fitness: 114.0
+Running episode: 0
+Genome fitness: 69.0
+Running episode: 0
+Genome fitness: 52.0
+Running episode: 0
+Genome fitness: 96.0
+Running episode: 0
+Genome fitness: 107.0
+Running episode: 0
+Genome fitness: 434.0
+Running episode: 0
+Genome fitness: 116.0
