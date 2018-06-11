@@ -1,0 +1,14 @@
+root@5a401ffa77b3:/opt/train/NEAT# python3 Train.py --config-file no_gym_config
+Traceback (most recent call last):
+  File "Train.py", line 217, in <module>
+    train_network(smb_env)
+  File "Train.py", line 159, in train_network
+    pop = population.Population(args.configFile)
+  File "/usr/local/lib/python3.6/dist-packages/neat/population.py", line 34, in __init__
+    config = Config(config)
+  File "/usr/local/lib/python3.6/dist-packages/neat/config.py", line 36, in __init__
+    self.load(filename)
+  File "/usr/local/lib/python3.6/dist-packages/neat/config.py", line 40, in load
+    raise Exception('No such config file: ' + os.path.abspath(filename))
+Exception: No such config file: /opt/train/NEAT/no_gym_config
+
